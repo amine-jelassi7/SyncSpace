@@ -1,0 +1,8 @@
+/* Code syntax highlighting tokens (for the code viewer) */
+
+.token-keyword { color: #f472b6; font-weight: 600; }
+.token-function { color: #38bdf8; }
+.token-string { color: #4ade80; }
+.token-comment { color: #64748b; font-style: italic; }
+.token-number { color: #fb923c; }
+.token-class { color: #facc15; }
