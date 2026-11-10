@@ -1,5 +1,7 @@
 # SyncSpace 3D – Cross-Window Synchronization Lab
 
+> ⚠️ **Note:** This project is a personal sandbox & learning template! As a Three.js beginner, I built this using a mix of official docs, AI assistance, and trial-and-error to understand cross-window sync patterns. Feel free to use it as a starter or reference!
+
 Open `index.html` in a browser (double-click works, no build step needed).
 Needs an internet connection for the Tailwind, Three.js and Lucide CDNs.
 
